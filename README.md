@@ -91,7 +91,7 @@ A **correction factor `f = 1/300`** was introduced to translate ideal daily prod
 
 ## 📈 Diagram – Model Flow
 
-![Conceptual Flow](pictures/diagram.jpg)
+![Conceptual Flow](pictures/diagram.JPG)
 
 ---
 
@@ -99,7 +99,7 @@ A **correction factor `f = 1/300`** was introduced to translate ideal daily prod
 
 The lake's turquoise to green coloration suggests high clarity and photic penetration, consistent with the very low turbidity measurements (4–5 JTU).
 
-![Lake View](pictures/Lake_2.jpg)
+![Lake View](pictures/Lake_2.JPG)
 
 ---
 
