@@ -91,7 +91,7 @@ A **correction factor `f = 1/300`** was introduced to translate ideal daily prod
 
 ## 📈 Diagram – Model Flow
 
-![Conceptual Flow](pictures/diagram.JPG)
+![Conceptual Flow](pictures/diagram.png)
 
 ---
 
