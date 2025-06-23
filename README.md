@@ -70,6 +70,40 @@ Measurements were taken a few meters downstream of a small cascade, under optima
 These data indicate a carbonate-buffered, oxygen-rich stream with extremely low nutrient levels and high water clarity, ideal for light penetration and consistent with low turbidity high-flow environments.
 
 ---
+### 📊 Additional water chemistry (Ouvèze River – June 21, 2025)
+
+- **Sample:** Downstream of the cascade, 15:30 local time
+- **Air temperature:** 35 °C
+- **Water temperature:** 20.8 °C
+- **Visual turbidity:** < 5 JTU (clear)
+- **pH:** 8.1 (carbonate-buffered)
+- **Total hardness (GH):** 13 °dGH (23 °fH) ≈ 283 mg/L HCO₃⁻
+- **Alkalinity (KH, assumed):** ~13 °dKH
+- **Nitrates/Nitrites:** 0 mg/L
+- **Dissolved oxygen (O₂):** ~8 mg/L (±1)
+
+**🧮 CO₂ calculation:**
+
+\[
+CO₂ (mg/L) = 0.44 × KH × 10^{(7.7 − pH)}
+\]
+
+\[
+= 0.44 × 13 × 10^{(7.7 − 8.1)}
+= 0.44 × 13 × 10^{-0.4}
+≈ 0.44 × 13 × 0.398 ≈ 2.3 mg/L
+\]
+
+**✅ Interpretation:**
+- The calculated free CO₂ is about **2.3 mg/L**, which is low compared to the dissolved O₂ (~8 mg/L).
+- This reflects excellent aeration due to the cascade and turbulent flow: CO₂ degasses easily while O₂ stays close to saturation.
+- Combined with very low nitrates and clear water (<5 JTU), this confirms the Ouvèze is **oligotrophic to mesotrophic**, with minimal organic pollution.
+- Numerous anisopteran and zygopteran dragonflies observed along the banks further support high water quality and strong dissolved oxygen levels.
+
+**➡️ Implication for NPP modeling:**  
+High oxygen, low CO₂, and clear water mean deep light penetration and low shading from suspended solids, favouring primary productivity but within the constraints of low nutrient levels.
+
+---
 
 ### 2. **Python Model Description**
 
