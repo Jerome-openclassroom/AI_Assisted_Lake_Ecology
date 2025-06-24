@@ -125,7 +125,7 @@ A **correction factor `f = 1/300`** was introduced to translate ideal daily prod
 
 ### 📊 Additional water chemistry (Lac du Paty – June 24, 2025)
 
-- **Sample:** North shore, midday, clear sky, light breeze
+- **Sample:** North shore, midday, clear sky, light breeze, 17:00 local time
 - **Air temperature (50 cm above water):** 32.6 °C
 - **Reference air temperature (Carpentras):** 35.9 °C (source: [Infoclimat](https://www.infoclimat.fr/))
 - **Water temperature (20–30 cm depth):** 28.1 °C
