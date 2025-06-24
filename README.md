@@ -123,7 +123,7 @@ A **correction factor `f = 1/300`** was introduced to translate ideal daily prod
 
 ---
 
-### 📊 Additional water chemistry (Lac du Paty – July 2025)
+### 📊 Additional water chemistry (Lac du Paty – June 24, 2025)
 
 - **Sample:** North shore, midday, clear sky, light breeze
 - **Air temperature (50 cm above water):** 32.6 °C
