@@ -146,6 +146,26 @@ A **correction factor `f = 1/300`** was introduced to translate ideal daily prod
 
 ---
 
+### 🌿 Ecological Comparison – Lac du Paty vs Ouvèze (June 2025)
+
+| Parameter | **🌊 Lac du Paty** | **🌊 Ouvèze River** |
+|-----------|---------------------|---------------------|
+| **Water Temp.** | ~28 °C (surface) | ~20–21 °C |
+| **Dissolved O₂** | ~6 mg/L | ~8 mg/L |
+| **pH** | ~8.0 | ~8.0 |
+| **KH** | ~10 °dKH | ~13–15 °dKH |
+| **CO₂** | ~2.2 mg/L | ~2–3 mg/L |
+| **Turbidity** | < 5 JTU | < 5 JTU |
+| **Biodiversity** | 🐉 Dominance of *Anax imperator* (top predator) reduces other odonates | 🪰 Higher odonate diversity due to flow and turbulence |
+
+**✅ Key points:**  
+- The river stays cooler and more oxygenated thanks to upstream cascades and steady current.  
+- Both sites have stable carbonate buffering, very low CO₂ and excellent clarity.  
+- In the lake, the large dragonfly (*Anax imperator*) predates on other odonates, lowering species diversity compared to the river’s richer community.
+
+
+---
+
 ## 📈 Diagram – Model Flow
 
 ![Conceptual Flow](pictures/diagram.png)
