@@ -154,7 +154,7 @@ A **correction factor `f = 1/300`** was introduced to translate ideal daily prod
 | **Dissolved O₂** | ~6 mg/L | ~8 mg/L |
 | **pH** | ~8.0 | ~8.0 |
 | **KH** | ~10 °dKH | ~13–15 °dKH |
-| **CO₂** | ~2.2 mg/L | ~2–3 mg/L |
+| **CO₂** | ~2.2 mg/L | ~2.3 mg/L |
 | **Turbidity** | < 5 JTU | < 5 JTU |
 | **Biodiversity** | 🐉 Dominance of *Anax imperator* (top predator) reduces other odonates | 🪰 Higher odonate diversity due to flow and turbulence |
 
