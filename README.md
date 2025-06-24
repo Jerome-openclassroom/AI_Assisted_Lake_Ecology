@@ -123,6 +123,29 @@ A **correction factor `f = 1/300`** was introduced to translate ideal daily prod
 
 ---
 
+### 📊 Additional water chemistry (Lac du Paty – July 2025)
+
+- **Sample:** North shore, midday, clear sky, light breeze
+- **Air temperature (50 cm above water):** 32.6 °C
+- **Reference air temperature (Carpentras):** 35.9 °C (source: [Infoclimat](https://www.infoclimat.fr/))
+- **Water temperature (20–30 cm depth):** 28.1 °C
+- **Turbidity:** < 5 JTU (very clear)
+- **pH:** 8.0 (moderately alkaline)
+- **Alkalinity (KH):** 10 °dKH (17.8 °fH) ≈ 218 mg/L HCO₃⁻ ≈ 3.6 mmol/L
+- **Nitrates/Nitrites:** 0 mg/L (undetectable)
+- **Dissolved oxygen (O₂):** 6 mg/L
+- **Estimated free CO₂:** ~2.2 mg/L (calculated: 0.44 × KH × 10^(7.7 – pH))
+- **O₂/CO₂ ratio (mass basis):** ~2.7
+- **Observed biodiversity:** abundant alevins, large anisopteran dragonflies (*likely Anax imperator*), freshwater jellyfish (*Craspedacusta sowerbii*)
+
+**✅ Interpretation:**  
+- Very low turbidity confirms excellent light penetration and low suspended solids.  
+- pH and KH indicate stable carbonate buffering with weakly basic conditions.  
+- Low CO₂ and moderate O₂ reflect good photosynthetic activity despite warm water temperature.  
+- Biological observations (odonates, alevins, jellyfish) reinforce the diagnosis of a well-balanced mesotrophic lake with stable summer stratification.
+
+---
+
 ## 📈 Diagram – Model Flow
 
 ![Conceptual Flow](pictures/diagram.png)
