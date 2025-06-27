@@ -195,7 +195,7 @@ This includes:
 
 ---
 
-## 🧬 Accidental Proto-IBGN – June 26, 2025 (Ouvèze, downstream oxbow)
+## 🧬 Accidental Proto-IBGN – June 26, 2025 (Ouvèze, upstream oxbow, i.e., stagnant side-arm before cascade oxygenation)
 
 On **June 26, 2025**, around **17:00**, a **non-intentional biological sampling** occurred during sediment collection in a **shallow, stagnant side-arm (10 cm depth)** of the Ouvèze River. Air temperature was high (~35 °C), water was still, exposed to full sun, and likely already **severely oxygen-depleted**.
 
