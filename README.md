@@ -193,6 +193,61 @@ This includes:
 
 ---
 
+---
+
+## 🧬 Accidental Proto-IBGN – June 26, 2025 (Ouvèze, downstream oxbow)
+
+On **June 26, 2025**, around **17:00**, a **non-intentional biological sampling** occurred during sediment collection in a **shallow, stagnant side-arm (10 cm depth)** of the Ouvèze River. Air temperature was high (~35 °C), water was still, exposed to full sun, and likely already **severely oxygen-depleted**.
+
+🫴 The larva was **collected manually (no net)** by scraping under submerged rounded stones.  
+🫙 It was placed in a **glass container**, cooled during transport, and remained **alive upon arrival** at home.
+
+---
+
+### 🧪 Water parameters (after 24h in pot, June 27):
+
+- 🌡️ **Temperature:** 27.8 °C  
+- 🫧 **Dissolved oxygen:** 2–3 mg/L (Hanna probe)  
+- 🔄 **Oxygenation attempt:** Manual stirring at time of capture – unsuccessful  
+- 💀 **Status after 24h:** Dead
+
+---
+
+### 🔬 Morphological diagnosis (loupe ×5 & microscope ×40)
+
+- Body length ~10 mm
+- 🦠 **3 long caudal filaments** (cerci)
+- 🫁 **Abdominal lamellar gills**, visibly palmate
+- 🔬 Lateral compound eyes, fusiform body
+- No case (excludes Trichoptera), no claws/hooks (excludes Odonata)
+
+🧭 **Conclusion:**  
+Probable **_Ephemeroptera_**, family **Baetidae**, genus **_Cloeon_**  
+↳ Tolerant species, still **moderately rheophilic and steno-thermal**  
+↳ Likely mortality due to **thermal + oxygen stress**
+
+
+---
+
+### 🌿 IBGN-like interpretation
+
+| Variable | Value |
+|----------|-------|
+| Depth | ~10 cm |
+| Flow | None (oxbow) |
+| Exposure | Full sun |
+| Temp (after 24h) | 27.8 °C |
+| Dissolved O₂ | 2–3 mg/L |
+| Diversity | 1 sensitive macroinvertebrate |
+| IBGN estimate | Class 4–5 / 10 (low/moderate quality) |
+
+🧪 This **accidental yet complete observation** demonstrates that **citizen science + minimal tools + LLM assistance** can yield **valid ecological insights** comparable to formal protocols.
+
+---
+
+
+---
+
 ## 📂 Repository Structure
 
 ```
