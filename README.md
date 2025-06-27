@@ -193,6 +193,12 @@ This includes:
 
 ---
 
+## 🔬 Outputs
+
+- **Daily NPP (ideal theoretical)**: ~93.05 g/m²/day
+- **Corrected annual NPP** (f = 1/300): ~113.2 g/m²/year
+- Consistent with mesotrophic lake ecosystems
+
 ---
 
 ## 🧬 Accidental Proto-IBGN – June 26, 2025 (Ouvèze, upstream oxbow, i.e., stagnant side-arm before cascade oxygenation)
@@ -272,15 +278,7 @@ Probable **_Ephemeroptera_**, family **Baetidae**, genus **_Cloeon_**
 
 ```
 
----
 
-## 🔬 Outputs
-
-- **Daily NPP (ideal theoretical)**: ~93.05 g/m²/day
-- **Corrected annual NPP** (f = 1/300): ~113.2 g/m²/year
-- Consistent with mesotrophic lake ecosystems
-
----
 🔗 **See also my related work on GitHub**:
 ## 🔗 Part of the Lyra Ecosystem
 
