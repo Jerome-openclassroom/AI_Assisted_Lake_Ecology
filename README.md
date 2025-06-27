@@ -46,6 +46,7 @@ The following parameters were measured directly on-site under clear sky conditio
 
 These values confirm a clear, oxygenated, weakly alkaline freshwater body, with low nutrient content and high photic zone depth — matching mesotrophic to oligotrophic profiles.
 
+
 1.2 Ecological Field Data (Ouvèze River – June 2025, Bédarrides site)
 Measurements were taken a few meters downstream of a small cascade, under optimal solar exposure:
 
@@ -123,6 +124,14 @@ A **correction factor `f = 1/300`** was introduced to translate ideal daily prod
 
 ---
 
+## 🔬 Outputs (Lac du Paty)
+
+- **Daily NPP (ideal theoretical)**: ~93.05 g/m²/day
+- **Corrected annual NPP** (f = 1/300): ~113.2 g/m²/year
+- Consistent with mesotrophic lake ecosystems
+
+---
+
 ### 📊 Additional water chemistry (Lac du Paty – June 24, 2025)
 
 - **Sample:** North shore, midday, clear sky, light breeze, 17:00 local time
@@ -191,15 +200,6 @@ This includes:
 - Ecological reasoning and trophic interpretation (predation, respiration),
 - Visualization and repository documentation.
 
----
-
-## 🔬 Outputs
-
-- **Daily NPP (ideal theoretical)**: ~93.05 g/m²/day
-- **Corrected annual NPP** (f = 1/300): ~113.2 g/m²/year
-- Consistent with mesotrophic lake ecosystems
-
----
 
 ## 🧬 Accidental Proto-IBGN – June 26, 2025 (Ouvèze, upstream oxbow, i.e., stagnant side-arm before cascade oxygenation)
 
