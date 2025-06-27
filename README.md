@@ -273,7 +273,7 @@ Probable **_Ephemeroptera_**, family **Baetidae**, genus **_Cloeon_**
 │   ├── pattes_X40_1.jpg                        ← anterior leg detail (×40)
 │   ├── tête_thorax_X40_1.jpg                   ← head + thorax morphology (×40)
 │   ├── thorax_abdomen_X40.jpg                  ← thorax–abdomen transition (×40)
-│   ├── X40_optimal_4.jpg                       ← scale reference: 1 mm grid under ×40 microscope (for ImageJ)
+│   ├── X40_optimal_4.jpg                       ← scale reference: 1 mm grid under ×40 microscope (for ImageJ free software https://imagej.net/)
 │   └── README_fragment.md                      ← metadata and cognitive interpretation
 
 ```
