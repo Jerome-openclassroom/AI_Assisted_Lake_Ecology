@@ -258,7 +258,18 @@ Probable **_Ephemeroptera_**, family **Baetidae**, genus **_Cloeon_**
 ├── River_1.jpg
 ├── River_2.jpg
 ├── Sampling.jpg        ← sampling on site
-├── Tools.jpg           ← field material used
+├── Tools.jpg           ← field material used.
+├── ephemeroptera_larvae/               ← accidental IBGN observation (June 26, 2025)
+│   ├── ephemeroptera_ouvèze_squares_5mm.jpg    ← overview of larva on 5 mm grid (loupe ×5)
+│   ├── double_magnifier_5X.jpg                 ← educational magnifier used for capture & observation
+│   ├── branchies_X40.jpg                       ← abdominal lamellar gills (×40)
+│   ├── cerques_caudales_X40.jpg                ← caudal filaments (cerci) detail (×40)
+│   ├── pattes_X40_1.jpg                        ← anterior leg detail (×40)
+│   ├── tête_thorax_X40_1.jpg                   ← head + thorax morphology (×40)
+│   ├── thorax_abdomen_X40.jpg                  ← thorax–abdomen transition (×40)
+│   ├── X40_optimal_4.jpg                       ← scale reference: 1 mm grid under ×40 microscope (for ImageJ)
+│   └── README_fragment.md                      ← metadata and cognitive interpretation
+
 ```
 
 ---
