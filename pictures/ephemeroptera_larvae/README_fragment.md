@@ -47,3 +47,16 @@ This folder contains the photographic documentation of an **accidental discovery
 This photo set demonstrates the feasibility of performing **proto-IBGN diagnosis using only a loupe, a jar, and an LLM**. It illustrates how **high-fidelity identification** and **eco-physiological interpretation** can emerge from a non-instrumental context, paving the way for **low-tech, high-cognition ecological protocols**.
 
 ---
+
+## 🔗 Related model – Lyra River Ecology
+
+This field observation complements the fine-tuned model **[Lyra River Ecology](https://github.com/Jerome-openclassroom/Lyra_River_quality)**.
+
+Where the model predicts expected IBGN from input parameters, this photo set shows:
+- A real-life **accidental discovery** of a *Cloeon* larva,
+- The **actual environmental stress** (high temperature, low O₂),
+- The **observed mortality** supporting the model’s predictive logic.
+
+Together, they demonstrate how **AI and field ecology reinforce each other**, even in ultra-low-cost contexts.
+
+---
