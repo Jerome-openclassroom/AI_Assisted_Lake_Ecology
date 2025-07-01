@@ -213,7 +213,7 @@ On **June 26, 2025**, around **17:00**, a **non-intentional biological sampling*
 ### 🧪 Water parameters (after 24h in pot, June 27):
 
 - 🌡️ **Temperature:** 27.8 °C  
-- 🫧 **Dissolved oxygen:** 2–3 mg/L (Hanna probe)  
+- 🫧 **Dissolved oxygen:** 2–3 mg/L (JBL test)  
 - 🔄 **Oxygenation attempt:** Manual stirring at time of capture – unsuccessful  
 - 💀 **Status after 24h:** Dead
 
