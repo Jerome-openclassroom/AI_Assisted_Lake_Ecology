@@ -257,15 +257,20 @@ Probable **_Ephemeroptera_**, family **Baetidae**, genus **_Cloeon_**
 ## 📂 Repository Structure
 
 ```
+📁 /
+├── README.md              ← This file 
+├── README_fr.md           ← French version
+
 📁 pictures/
-├── diagram.jpg         ← NPP conceptual diagram
+├── diagram.jpg            ← NPP conceptual diagram
 ├── Lake_1.jpg
-├── Lake_2.jpg          ← illustrative coloration of the lake
+├── Lake_2.jpg             ← illustrative coloration of the lake
 ├── River_1.jpg
 ├── River_2.jpg
-├── Sampling.jpg        ← sampling on site
-├── Tools.jpg           ← field material used.
-├── ephemeroptera_larvae/               ← accidental IBGN observation (June 26, 2025)
+├── Sampling.jpg           ← sampling on site
+├── Tools.jpg              ← field material used
+│
+├── ephemeroptera_larvae/  ← accidental IBGN observation (June 26, 2025)
 │   ├── ephemeroptera_ouvèze_squares_5mm.jpg    ← overview of larva on 5 mm grid (loupe ×5)
 │   ├── double_magnifier_5X.jpg                 ← educational magnifier used for capture & observation
 │   ├── branchies_X40.jpg                       ← abdominal lamellar gills (×40)
