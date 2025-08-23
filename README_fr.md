@@ -162,24 +162,30 @@ IBGN estimé = Classe 4–5/10 → qualité faible à modérée.
 ## 📂 Structure du dépôt
 
 ```
+📁 /
+├── README.md              ← documentation principale (anglais)
+├── README_fr.md           ← documentation traduite (français)
+
 📁 pictures/
-├── diagram.jpg         ← Schéma conceptuel NPP
+├── diagram.jpg            ← Schéma conceptuel NPP
 ├── Lake_1.jpg
-├── Lake_2.jpg          ← coloration illustrant clarté du lac
+├── Lake_2.jpg             ← coloration illustrative du lac
 ├── River_1.jpg
 ├── River_2.jpg
-├── Sampling.jpg        ← échantillonnage sur site
-├── Tools.jpg           ← matériel de terrain utilisé
+├── Sampling.jpg           ← échantillonnage sur site
+├── Tools.jpg              ← matériel de terrain utilisé
+│
 ├── ephemeroptera_larvae/  ← observation IBGN accidentelle (26 juin 2025)
 │   ├── ephemeroptera_ouvèze_squares_5mm.jpg    ← larve sur quadrillage 5 mm (loupe ×5)
-│   ├── double_magnifier_5X.jpg                 ← loupe éducative utilisée pour observation
+│   ├── double_magnifier_5X.jpg                 ← loupe éducative utilisée pour capture & observation
 │   ├── branchies_X40.jpg                       ← branchies abdominales lamellaires (×40)
 │   ├── cerques_caudales_X40.jpg                ← détail cerques caudaux (×40)
-│   ├── pattes_X40_1.jpg                        ← détail pattes antérieures (×40)
+│   ├── pattes_X40_1.jpg                        ← détail patte antérieure (×40)
 │   ├── tête_thorax_X40_1.jpg                   ← morphologie tête + thorax (×40)
 │   ├── thorax_abdomen_X40.jpg                  ← transition thorax–abdomen (×40)
-│   ├── X40_optimal_4.jpg                       ← référence étalonnage (quadrillage 1 mm, microscope ×40)
+│   ├── X40_optimal_4.jpg                       ← référence étalonnage : quadrillage 1 mm sous microscope ×40 (pour logiciel libre ImageJ)
 │   └── README_fragment.md                      ← métadonnées et interprétation cognitive
+
 ```
 
 ---
